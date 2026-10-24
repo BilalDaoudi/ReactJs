@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "marque": "AGM",
+    "model": "glory",
+    "image": "../Images/1.webp",
+    "prix": 10,
+    "shipping": 0,
+    "discription":
+      "AMG Glory 5G Rugged Phone 8+256G Global Verion 11 NFC Rugged Smartphone 6200MAh Arctic battery 6.53 Celular Phones"
+  },
+  {
+    "id": 2,
+    "marque": "Infinix Note 11 Pro",
+    "model": "Infinix",
+    "image": "../Images/2.webp",
+    "prix": 10,
+    "shipping": 0,
+    "discription":
+      "AMG Glory 5G Rugged Phone 8+256G Global Verion 11 NFC Rugged Smartphone 6200MAh Arctic battery 6.53 Celular Phones"
+  },
+  {
+    "id": 3,
+    "marque": "OnePlus 9RT",
+    "model": "OnePlus",
+    "image": "../Images/3.webp",
+    "prix":20,
+    "shipping": 100,
+    "discription":
+      "AMG Glory 5G Rugged Phone 8+256G Global Verion 11 NFC Rugged Smartphone 6200MAh Arctic battery 6.53 Celular Phones"
+  },
+  {
+    "id": 4,
+    "marque": "OnePlus 7 pro",
+    "model": "OnePlus",
+    "image": "../Images/4.webp",
+    "prix": 5,
+    "shipping": 0,
+    "discription":
+      "AMG Glory 5G Rugged Phone 8+256G Global Verion 11 NFC Rugged Smartphone 6200MAh Arctic battery 6.53 Celular Phones"
+  }
+]
