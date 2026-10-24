@@ -1,0 +1,141 @@
+[{
+  "id": 1,
+  "marque": "HP",
+  "name": "HP Pavilion",
+  "model": "15-cs3010",
+  "image": "../Images/1.jpg",
+  "prix": 899.99,
+  "RAM": "8GB",
+  "Processeur": "Intel Core i5",
+  "Stockage": "256GB SSD"
+},
+{
+  "id": 2,
+  "marque": "Dell",
+  "name": "Dell XPS",
+  "model": "13-9310",
+  "image": "../Images/2.jpg",
+  "prix": 1299.99,
+  "RAM": "16GB",
+  "Processeur": "Intel Core i7",
+  "Stockage": "512GB SSD"
+}
+,{
+  "id": 3,
+  "marque": "Lenovo",
+  "name": "Lenovo ThinkPad",
+  "model": "T490",
+  "image": "../Images/3.jpg",
+  "prix": 1099.99,
+  "RAM": "8GB",
+  "Processeur": "Intel Core i5",
+  "Stockage": "256GB SSD"
+}
+
+,{
+  "id": 4,
+  "marque": "Apple",
+  "name": "MacBook Air",
+  "model": "M1",
+  "image": "../Images/4.jpg",
+  "prix": 1299.99,
+  "RAM": "8GB",
+  "Processeur": "Apple M1",
+  "Stockage": "256GB SSD"
+}
+
+,{
+  "id": 5,
+  "marque": "Asus",
+  "name": "Asus ZenBook",
+  "model": "UX325EA",
+  "image": "../Images/5.jpg",
+  "prix": 999.99,
+  "RAM": "16GB",
+  "Processeur": "Intel Core i7",
+  "Stockage": "1TB SSD"
+}
+
+,{
+  "id": 6,
+  "marque": "Acer",
+  "name": "Acer Swift",
+  "model": "3 SF314-42",
+  "image": "../Images/6.jpg",
+  "prix": 699.99,
+  "RAM": "8GB",
+  "Processeur": "AMD Ryzen 5",
+  "Stockage": "512GB SSD"
+}
+
+,{
+  "id": 7,
+  "marque": "MSI",
+  "name": "MSI GS65 Stealth",
+  "model": "GS65 8SE",
+  "image": "../Images/7.jpg",
+  "prix": 1999.99,
+  "RAM": "16GB",
+  "Processeur": "Intel Core i7",
+  "Stockage": "1TB SSD"
+}
+
+,{
+  "id": 8,
+  "marque": "HP",
+  "name": "HP Spectre x360",
+  "model": "13-aw0023dx",
+  "image": "../Images/8.jpg",
+  "prix": 1499.99,
+  "RAM": "16GB",
+  "Processeur": "Intel Core i7",
+  "Stockage": "512GB SSD"
+},{
+  "id": 9,
+  "marque": "Dell",
+  "name": "Dell Inspiron",
+  "model": "15 7000",
+  "image":"../Images/9.jpg",
+  "prix": 849.99,
+  "RAM": "8GB",
+  "Processeur": "Intel Core i5",
+  "Stockage": "256GB SSD"
+}
+
+,{
+  "id": 10,
+  "marque": "Lenovo",
+  "name": "Lenovo Yoga",
+  "model": "C940",
+  "image": "../Images/10.jpg",
+  "prix": 1299.99,
+  "RAM": "16GB",
+  "Processeur": "Intel Core i7",
+  "Stockage": "512GB SSD"
+},{
+  "id": 11,
+  "marque": "Dell",
+  "name": "Dell Inspiron",
+  "model": "15 7000",
+  "image":"../Images/2.jpg",
+  "prix": 849.99,
+  "RAM": "8GB",
+  "Processeur": "Intel Core i5",
+  "Stockage": "256GB SSD"
+}
+
+,{
+  "id": 12,
+  "marque": "Lenovo",
+  "name": "Lenovo Yoga",
+  "model": "C940",
+  "image": "../Images/1.jpg",
+  "prix": 1299.99,
+  "RAM": "16GB",
+  "Processeur": "Intel Core i7",
+  "Stockage": "512GB SSD"
+}
+
+
+
+]

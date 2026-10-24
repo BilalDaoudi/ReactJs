@@ -1,0 +1,39 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+header{
+  height: 70px;
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  background: #00000091;
+  align-items: center;
+  box-shadow: 1px 3px 1rem;
+}
+.Link{
+  margin-left: 50px;
+  color: #fff;
+  font-size: 20px;
+  padding-right: 25px;
+  text-decoration: none;
+}
+.card-employe{
+  height: 300px;
+  width: 350px;
+  border: 1px solid ;
+  display: grid;
+  place-items: center;
+}
+main{
+   width: 90%;
+   display: flex;
+   justify-content: space-around;
+   position: absolute;
+   left: 50%;
+   top: 50%;
+   transform: translate(-50% , -50%);
+   flex-wrap: wrap;
+   grid-gap: 50px;
+}
