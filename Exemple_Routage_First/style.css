@@ -1,0 +1,38 @@
+.menu{
+    text-align: center ;
+    padding: 0;
+    height: 40px;
+    /* width: 100%; */
+    background-color: rgb(233, 110, 110); 
+}
+.col-4{
+    background-color: rgb(233, 110, 110); 
+}
+ul{
+    height: 100%;
+    list-style: none;
+    display: flex;
+}
+ul a{
+    text-decoration: none;
+}
+ul li{
+    color: #fff;    
+    padding-top: 8px;
+    height: 100%;
+    width: 100px;
+    text-decoration: none;
+} 
+ul li:hover{
+    background-color: rgb(183, 133, 231);    
+} 
+.Content{
+    width: 100%;
+    color: #000700;
+    background-color: rgb(183, 133, 231);    
+    text-align: center;
+    font-size: 200px;
+}
+.row{
+    width: 100.85%;
+}

@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "marque": "Sony",
+    "model": "PCG-718811M",
+    "image": "../Images/logo.jpg",
+    "prix": 1499.99,
+    "RAM" : "4.00 Go",
+    "Processeur": "Intel(R) Core(TM) i5-2430M CPU @ 2.40GHz   2.40 GHz",
+    "Stockage" : " 232 Go HDD"
+  },
+  {
+    "id": 2,
+    "marque": "Sony",
+    "model": "PCG-718811M",
+    "image": "../Images/logo.jpg",
+    "prix": 1499.99,
+    "RAM" : "4.00 Go",
+    "Processeur": "Intel(R) Core(TM) i5-2430M CPU @ 2.40GHz   2.40 GHz",
+    "Stockage" : " 232 Go HDD"
+  },
+  {
+    "id": 3,
+    "marque": "Sony",
+    "model": "PCG-718811M",
+    "image": "../Images/logo.jpg",
+    "prix": 1499.99,
+    "RAM" : "4.00 Go",
+    "Processeur": "Intel(R) Core(TM) i5-2430M CPU @ 2.40GHz   2.40 GHz",
+    "Stockage" : " 232 Go HDD"
+  },
+  {
+    "id": 4,
+    "marque": "Sony",
+    "model": "PCG-718811M",
+    "image": "../Images/logo.jpg",
+    "prix": 1499.99,
+    "RAM" : "4.00 Go",
+    "Processeur": "Intel(R) Core(TM) i5-2430M CPU @ 2.40GHz   2.40 GHz",
+    "Stockage" : " 232 Go HDD"
+  }
+ 
+]

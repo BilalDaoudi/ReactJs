@@ -1,0 +1,70 @@
+
+.title{
+  text-align: center;
+  font-weight: 600;
+}
+
+.info{
+    margin: 20px;
+   padding-left: 50px;
+    width: 90%;
+}
+.pay{
+    width: 100%;
+}
+.row{
+    width: 100%;
+}
+
+body {
+    background-color: #f8f8f8;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 30px;
+  }
+ .home h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  .home p {
+    margin-bottom: 20px;
+  }
+  .home a {
+    background-color: #007bff;
+    border-color: #007bff;
+    border-radius: 3px;
+    color: #fff;
+    display: inline-block;
+    font-size: 18px;
+    padding: 12px 30px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+  .home a:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+  .count{
+    box-shadow: #0069d9 1px 1px 10px 1px;
+    border-radius: 50px;
+    margin-top: 10px;
+    width: 40px;
+    height: 40px;
+    background-color: #cacdd0;
+    padding: 5px 0px 0px 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
